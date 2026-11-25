@@ -1,3 +1,6 @@
+#P2-- Dynamic Programming
+#Q)-- implement the fibonacci sequence using tabulation (bottom-up Approach)to generate the first N Fibonacci numbers.
+
 def fibonacci(n):
     if n <= 0:
         print("Enter a positive number.")
