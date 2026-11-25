@@ -1,0 +1,3 @@
+The student is learning Python and completed the assignment.
+She is writing code while testing the program.
+The teacher explained the topic and checked the answers.
